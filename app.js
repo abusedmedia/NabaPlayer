@@ -6,13 +6,19 @@ $.get('ui.svg', function (data) {
 
   TweenMax.set('#back', { y: -100 })
   TweenMax.set('svg > g:not(#back):not(#home)', { x: 1080 })
+  $('svg > g:not(#back):not(#home)').hide()
 
   function swap (id, vdo) {
     // $('svg > g:not(#back)').hide()
     // $('#' + id).show()
 
-    TweenMax.to('#' + current, 1, { x: -1080, ease: Expo.easeOut })
+    TweenMax.to('#' + current, 1, { x: -1080,
+      ease: Expo.easeOut,
+      onComplete: function () {
+        $(this).hide()
+      } })
 
+    $('#' + id).show()
     TweenMax.set('#' + id, { x: 1080 })
     TweenMax.to('#' + id, 1, { x: 0, ease: Expo.easeOut })
 
