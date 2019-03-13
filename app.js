@@ -54,7 +54,7 @@ $.get('ui.svg', function (data) {
     var vdo = g + '/' + v
 
     if (g == 'a') {
-      var rnd = parseInt(Math.random() * 4) + 1
+      var rnd = parseInt(Math.random() * 3) + 1
       vdo = vdo + '-' + rnd
     }
 
