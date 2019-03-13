@@ -1,0 +1,22 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1082 1922">
+  <title>ui</title>
+  <g id="a">
+    <image x="2" y="2" width="1080" height="1920" xlink:href="ui/a.png"/>
+    <rect id="a1" x="58.5" y="100.5" width="964" height="225" opacity="0"/>
+    <rect id="a2" x="58.5" y="350.5" width="964" height="225" opacity="0"/>
+    <rect id="a3" x="58.5" y="597.5" width="964" height="225" opacity="0"/>
+    <rect id="a4" x="58.5" y="847.5" width="964" height="225" opacity="0"/>
+    <rect id="a5" x="58.5" y="1091.5" width="964" height="225" opacity="0"/>
+    <rect id="a6" x="58.5" y="1338.5" width="964" height="225" opacity="0"/>
+    <rect id="a7" x="58.5" y="1582.5" width="964" height="225" opacity="0"/>
+  </g>
+  <g id="home">
+    <image width="1080" height="1920" xlink:href="ui/home.png"/>
+    <rect id="za" x="136" y="170" width="343" height="343"/>
+    <rect id="zb" x="597" y="298" width="311" height="397"/>
+    <rect id="zc" x="167" y="837" width="811" height="436"/>
+  </g>
+  <g id="back">
+    <rect x="2" y="1695" width="1078" height="225" fill="#1212dd"/>
+  </g>
+</svg>
