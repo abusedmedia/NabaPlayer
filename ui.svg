@@ -76,6 +76,30 @@
     <ellipse id="e2" cx="544.05" cy="1041" rx="265.03" ry="218" fill="#ed1c24" stroke="#000" stroke-width="10"/>
     <ellipse id="e3" cx="544.05" cy="1566.81" rx="265.03" ry="218" fill="#ed1c24" stroke="#000" stroke-width="10"/>
   </g>
+  <g id="g">
+    <image id="g.psd" width="1080" height="1920" transform="translate(0.09 3)" xlink:href="ui/g.jpg"/>
+    <g id="g7">
+      <path d="M610.49,1748,483,1674.38a3.37,3.37,0,0,0-5.05,2.92v147.26a3.37,3.37,0,0,0,5.05,2.92l127.54-73.63A3.38,3.38,0,0,0,610.49,1748Z" transform="translate(0.09 3)" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="10"/>
+    </g>
+    <g id="g6">
+      <path d="M854.5,1526,727,1452.33a3.37,3.37,0,0,0-5.06,2.92v147.26a3.37,3.37,0,0,0,5.06,2.92L854.5,1531.8A3.38,3.38,0,0,0,854.5,1526Z" transform="translate(0.09 3)" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="10"/>
+    </g>
+    <g id="g5">
+      <path d="M612.21,1528.42l-127.53-73.63a3.38,3.38,0,0,0-5.06,2.92V1605a3.37,3.37,0,0,0,5.06,2.92l127.53-73.63A3.37,3.37,0,0,0,612.21,1528.42Z" transform="translate(0.09 3)" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="10"/>
+    </g>
+    <g id="g4">
+      <path d="M363.28,1530.89l-127.53-73.63a3.37,3.37,0,0,0-5.06,2.92v147.26a3.37,3.37,0,0,0,5.06,2.92l127.53-73.63A3.37,3.37,0,0,0,363.28,1530.89Z" transform="translate(0.09 3)" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="10"/>
+    </g>
+    <g id="g3">
+      <path d="M856.07,1306.85l-127.54-73.63a3.37,3.37,0,0,0-5,2.92V1383.4a3.37,3.37,0,0,0,5,2.92l127.54-73.63A3.38,3.38,0,0,0,856.07,1306.85Z" transform="translate(0.09 3)" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="10"/>
+    </g>
+    <g id="g2">
+      <path d="M609.84,1308.31l-127.53-73.63a3.38,3.38,0,0,0-5.06,2.92v147.26a3.37,3.37,0,0,0,5.06,2.92l127.53-73.63A3.37,3.37,0,0,0,609.84,1308.31Z" transform="translate(0.09 3)" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="10"/>
+    </g>
+    <g id="g1">
+      <path d="M362.28,1309.31l-127.53-73.63a3.38,3.38,0,0,0-5.06,2.92v147.26a3.37,3.37,0,0,0,5.06,2.92l127.53-73.63A3.37,3.37,0,0,0,362.28,1309.31Z" transform="translate(0.09 3)" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="10"/>
+    </g>
+  </g>
   <g id="h">
     <image width="1080" height="1920" transform="translate(0.13 0.98)" xlink:href="ui/h.png"/>
     <circle id="h1" cx="338.89" cy="765.8" r="174.02" fill="#ccc" stroke="#ed1c24" stroke-miterlimit="10" stroke-width="5"/>
