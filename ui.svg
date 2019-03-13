@@ -71,7 +71,7 @@
     <ellipse id="d2" cx="561.41" cy="1516.41" rx="478.55" ry="404.5" fill="#fff" stroke="#900" stroke-miterlimit="10" stroke-width="7"/>
   </g>
   <g id="e">
-    <image width="1080" height="1920" transform="translate(0.21 3)" xlink:href="ui/e.png"/>
+    <image width="1080" height="1920" transform="translate(0.21 3)" xlink:href="ui/e.jpg"/>
     <ellipse id="e1" cx="536.55" cy="546" rx="260.53" ry="214" fill="#ed1c24" stroke="#000" stroke-width="10"/>
     <ellipse id="e2" cx="544.05" cy="1041" rx="265.03" ry="218" fill="#ed1c24" stroke="#000" stroke-width="10"/>
     <ellipse id="e3" cx="544.05" cy="1566.81" rx="265.03" ry="218" fill="#ed1c24" stroke="#000" stroke-width="10"/>
@@ -85,26 +85,26 @@
     <circle id="h5" cx="546.21" cy="1507.64" r="174.02" fill="#ccc" stroke="#ed1c24" stroke-miterlimit="10" stroke-width="5"/>
   </g>
   <g id="i">
-    <image x="0.09" y="3" width="1080" height="1920" xlink:href="ui/i.png"/>
+    <image x="0.09" y="3" width="1080" height="1920" xlink:href="ui/i.jpg"/>
     <rect id="i1" x="225.09" y="1272" width="640" height="176" fill="#3f3636" opacity="0.4"/>
     <rect id="i2" x="225.09" y="1536" width="640" height="176" fill="#3f3636" opacity="0.4"/>
   </g>
   <g id="j">
-    <image width="1080" height="1920" transform="translate(0.09)" xlink:href="ui/j.png"/>
+    <image width="1080" height="1920" transform="translate(0.09)" xlink:href="ui/j.jpg"/>
     <polygon id="j1" points="998.9 809.29 679.08 805.9 672.31 686.61 995.52 691.68 998.9 809.29" fill="#ffd800"/>
     <polygon id="j2" points="998.9 986.54 679.08 983.16 672.31 863.86 995.52 868.94 998.9 986.54" fill="#005bc1"/>
     <polygon id="j3" points="998.9 1167.61 679.08 1164.22 672.31 1044.93 995.52 1050 998.9 1167.61" fill="#ffd800"/>
     <polygon id="j4" points="1000.17 1444.28 678.65 1439.2 672.31 1215.84 995.52 1220.91 1000.17 1444.28" fill="#005bc1"/>
   </g>
   <g id="l">
-    <image x="0.09" y="3" width="1080" height="1920" xlink:href="ui/l.png"/>
+    <image x="0.09" y="3" width="1080" height="1920" xlink:href="ui/l.jpg"/>
     <rect id="L1" x="81.93" y="1359.95" width="400.98" height="126.09" fill="#fff"/>
     <rect id="L2" x="571.68" y="1359.95" width="400.98" height="126.09" fill="#fff"/>
     <rect id="L3" x="81.93" y="1592.12" width="400.98" height="126.09" fill="#fff"/>
     <rect id="L4" x="571.68" y="1592.12" width="400.98" height="126.09" fill="#fff"/>
   </g>
   <g id="home">
-    <image x="0.09" y="3" width="1080" height="1920" xlink:href="ui/home.png"/>
+    <image x="0.09" y="3" width="1080" height="1920" xlink:href="ui/home.jpg"/>
     <rect id="zo" x="709.28" y="1417.57" width="186.31" height="186.31" fill="#0071bc" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
     <rect id="zn" x="448.44" y="1417.57" width="186.31" height="186.31" fill="#0071bc" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
     <rect id="zm" x="184.67" y="1417.57" width="186.31" height="186.31" fill="#0071bc" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
