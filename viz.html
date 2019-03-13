@@ -4,12 +4,17 @@
             <link rel="stylesheet" type="text/css" href="style.css" />
     </head>
 
-    <body>
+    <body class="viz">
 
         <video src="videos/home.mp4" loop autoplay></video>
 
+        <script>if (typeof module === 'object') {window.module = module; module = undefined;}</script>
+
         <script src="jquery.js"></script>
         <script src="https://www.gstatic.com/firebasejs/5.8.6/firebase.js"></script>
+        
+        <script>if (window.module) module = window.module;</script>
+
         <script src="common.js"></script>
         <script src="viz.js"></script>
     </body>
