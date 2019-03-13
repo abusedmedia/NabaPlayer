@@ -63,7 +63,7 @@ $.get('ui.svg', function (data) {
   }
 
   var groups = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o']
-  groups.forEach(g => {
+  groups.forEach(function (g) {
     $('#' + g + ' > *:not(image)').on('click', function () {
       selector(g, $(this).attr('id').toLowerCase())
     })
